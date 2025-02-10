@@ -78,7 +78,7 @@ const Header = () => {
         <AppBar
           position="static"
           sx={{
-            bgcolor: orange,
+            bgcolor: "teal",
           }}
         >
           <Toolbar>
@@ -88,7 +88,7 @@ const Header = () => {
                 display: { xs: "none", sm: "block" },
               }}
             >
-              Chattu
+            TwoThree
             </Typography>
 
             <Box
